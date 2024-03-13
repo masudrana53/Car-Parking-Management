@@ -43,7 +43,7 @@ I'm a full stack developer...
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/masudrana53/Car-Parking-Management/blob/main/Project%20Screenshot/Screenshot_8.png)
 
 ## Details Of Parking Space
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/masudrana53/Car-Parking-Management/blob/main/Project%20Screenshot/Screenshot_2.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/masudrana53/Car-Parking-Management/blob/main/Project%20Screenshot/Screenshot_8.png)
 
 ## Details Of Parking Slots & Booked Slots
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/masudrana53/Car-Parking-Management/blob/main/Project%20Screenshot/Screenshot_4.png)
