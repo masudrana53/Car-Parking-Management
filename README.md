@@ -1,6 +1,6 @@
 # 🚀 Car-Parking-Management
 
-Brief for this project
+The vehicle Parking Management system is a web-based technology that will manage the records of the incoming and outgoing vehicles in an parking house. It's an easy for Admin to retrieve the data if the vehicle has been visited through number he can get that data.
 
 ## Tools, Technology, Databases and Servers
 
@@ -11,23 +11,10 @@ Brief for this project
 - Server - Tomcat
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
 
 ## 🚀 About Me
 I'm a full stack developer...
 
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## Home page
