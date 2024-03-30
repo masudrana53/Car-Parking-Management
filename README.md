@@ -6,8 +6,8 @@ Brief for this project
 
 - Language - JAVA
 - Tools - IntelliJ IDEA
-- Databases - Mysql
 - Technology - SpringBoot with Thymeleaf
+- Databases - Mysql
 - Server - Tomcat
 
 
