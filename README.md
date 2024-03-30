@@ -5,9 +5,9 @@ Brief for this project
 ## Tools, Technology, Databases and Servers
 
 - Language - JAVA
-- Tools - SpringBoot with Thymeleaf
+- Tools - IntelliJ IDEA
 - Databases - Mysql
-- Technology - IntelliJ IDEA
+- Technology - SpringBoot with Thymeleaf
 - Server - Tomcat
 
 
